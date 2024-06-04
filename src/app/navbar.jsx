@@ -4,6 +4,8 @@ const navbar = () => {
   return (
     <div>
       This is Navbar
+      This is Navbar
+      This is Navbar
     </div>
   )
 }

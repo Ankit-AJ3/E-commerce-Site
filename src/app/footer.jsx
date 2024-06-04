@@ -4,6 +4,8 @@ const footer = () => {
   return (
     <div>
       This is About Js 
+      This is About Js 
+      This is About Js 
     </div>
   )
 }

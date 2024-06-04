@@ -4,7 +4,8 @@ const about = () => {
   return (
     <div>
       This is about section
-      
+      This is about section
+      This is about section
     </div>
   )
 }
