@@ -12,6 +12,7 @@ const navbar = () => {
       This is Navbar
       This is Navbar
       This is Navbar
+      div.container
     </div>
   )
 }
