@@ -39,6 +39,8 @@ export default function Home() {
     <div className="ad"></div>
     <h1>Welcome to my New Project</h1>
     Ankit jangid 
+    Ankit jangid 
+    Ankit jangid 
     </>
   );
 }

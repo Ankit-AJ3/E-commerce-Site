@@ -5,6 +5,8 @@ const navbar = () => {
     <div>
       <div>
           NAVBAR
+          NAVBAR
+          NAVBAR
        </div>  
 </div>
   )
