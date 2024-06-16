@@ -37,16 +37,10 @@ export default function Home() {
     <div className="ad"></div>
     <div className="sutcase">
       <div className="asked">
-        <div className="svf">
-          
-        </div>
+        <div className="svf"></div>
       </div>
     </div>
-    <div className="ad"></div>
-    <h1>Welcome to my New Project</h1>
-    Ankit jangid 
-    Ankit jangid 
-    Ankit jangid 
+  
     </>
   );
 }
